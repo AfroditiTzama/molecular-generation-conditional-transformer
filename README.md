@@ -134,3 +134,17 @@ The generator is conditioned on **logP**, not directly on VEGFR2 activity. Compu
 ## Project status
 
 **Academic research implementation.** The original notebooks are provided for transparency and portfolio review. A fully reproducible public release would additionally require documented dataset acquisition, validated environments, checkpoint availability, and an end-to-end execution test.
+
+## Copyright & Usage
+
+**© 2026 Afroditi Tzama. All Rights Reserved.**
+
+This project was developed as part of my undergraduate thesis.
+
+The repository is publicly accessible for portfolio presentation, academic reference, and research transparency.
+
+**Public availability does not grant permission to reuse, modify, redistribute, or commercially exploit the original source code.**
+
+If you wish to use any part of this implementation, please contact me for prior written permission.
+
+See the [LICENSE](LICENSE) file for further information.
