@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+torch
+rdkit
+selfies
+tqdm
+Pillow
+ipython
+ipykernel
+jupyter
+meeko
