@@ -1,6 +1,6 @@
 # Conditional Molecular Generation with a SELFIES Transformer
 
-**Undergraduate thesis project | Generative AI · Cheminformatics · Drug Discovery**
+**Undergraduate thesis project**
 
 An end-to-end computational workflow for generating novel molecular structures with a **logP-conditioned autoregressive Transformer**, assessing their physicochemical properties, selecting diverse candidates through **Pareto optimization and MaxMin selection**, and evaluating a shortlist with **molecular docking against VEGFR2 (PDB: 3BE2)**.
 
